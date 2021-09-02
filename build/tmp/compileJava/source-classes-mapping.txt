@@ -1,0 +1,8 @@
+ru/job4j/weather/Main.java
+ ru.job4j.weather.Main
+ru/job4j/weather/Weather.java
+ ru.job4j.weather.Weather
+ru/job4j/weather/WeatherService.java
+ ru.job4j.weather.WeatherService
+ru/job4j/weather/WeatherControl.java
+ ru.job4j.weather.WeatherControl
